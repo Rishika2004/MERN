@@ -14,5 +14,3 @@ console.log("Good morning")
 // Good morning
 // Timer is done!
 
-// Funtion passed as argument to another function is called callback function.
-
